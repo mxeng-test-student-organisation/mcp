@@ -1,8 +1,8 @@
-# Microcontroller Project Repository
+### [Download Code](https://github.com/rmhowie/mcp/archive/master.zip)
 
-This repository contains the code for the second year mechatronics unit microcontroller project.
+### Microcontroller Project Repository
 
-### [Download Code](https://github.com/rmhowie/mcp/archive/master.zip) ("Download Zip" button also in top right)
+This repository contains the code for the second year mechatronics unit microcontroller project. Hit the "Download Zip" button also in top right or the link above to get the code.
 
 You can fork this repository (top right button) to start working on your own copy of this code.
 If you have changes that will benefit everyone you can submit a pull request to get them back here.
