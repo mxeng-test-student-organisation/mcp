@@ -129,7 +129,7 @@ REGISTER ^= (1<<1)|(1<<3);
 
 - Comment your code and use the clearest notation possible.
   
-  Don't expect help if your code isn't organised and readable
+  Don't expect help if your code isn't organised and readable.
 
 - The bits of the registers from the data sheet have names --- USE THEM! eg:
   ```c
