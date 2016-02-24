@@ -126,6 +126,7 @@ REGISTER ^= (1<<1)|(1<<3);
 # Tips
 
 - Comment your code and use the clearest notation possible.
+  
   Don't expect help if your code isn't organised and readable
 
 - The bits of the registers from the data sheet have names --- USE THEM! eg:
@@ -134,12 +135,12 @@ REGISTER ^= (1<<1)|(1<<3);
   UCSR0B = (1<<RXEN0)|(1<<TXEN0);
   ```
 
-- Initialise registers when using them (especially configuration registers)
+- Initialise registers when using them (especially configuration registers),
   ```c
   CONFIG_REGISTER = 0x00;
   CONFIG_REGISTER |= (1<<BIT_A)|(1<<BIT_B);
   ```
-  Or set them using = not |= on the first write
+  or set them using "=" not "|=" on the first write.
   ```c
   CONFIG_REGISTER = (1<<BIT_A)|(1<<BIT_B);
   ```
