@@ -1,13 +1,13 @@
 # Microcontroller Project Repository
 
-This repo contains documentation and code examples for the second year microcontroller project unit.
+###Hit [Download Zip](https://github.com/rmhowie/mcp/archive/master.zip) in the top right to get the latest code.
 
-### Cheat Sheets:
-[Bit Manipulation](bit_manipulation.md) (writing to ports; setting, clearing and toggling bits; bit shift notation; config registers)
+###Cheatsheets and tutorials available in the documentation repository: 
 
-### Notes:
-You can fork this repository (top right button) to start working on your own copy of this code (and docs).
-If you have changes that will benefit everyone you can submit a pull request to get them added here.
+This repository contains the code for the second year mechatronics unit microcontroller project.
+
+You can fork this repository (top right button) to start working on your own copy of this code.
+If you have changes that will benefit everyone you can submit a pull request to get them back here.
 
 Remember to attribute any code excerpts you use in your own projects (MIT license terms).
 
