@@ -125,25 +125,22 @@ REGISTER ^= (1<<1)|(1<<3);
 
 # Tips
 
-Comment your code and use the clearest notation possible.
-Don't expect help if your code isn't organised and readable
+- Comment your code and use the clearest notation possible.
+  Don't expect help if your code isn't organised and readable
 
-
-The bits of the registers from the data sheet have names --- USE THEM! eg:
-```c
-//turn on the transmission and reception circuitry for USART0
-UCSR0B = (1<<RXEN0)|(1<<TXEN0);
-```
-
+- The bits of the registers from the data sheet have names --- USE THEM! eg:
+  ```c
+  //turn on the transmission and reception circuitry for USART0
+  UCSR0B = (1<<RXEN0)|(1<<TXEN0);
+  ```
 
 - Initialise registers when using them (especially configuration registers)
-```c
-CONFIG_REGISTER = 0x00;
-CONFIG_REGISTER |= (1<<BIT_A)|(1<<BIT_B);
-```
-Or set them using = not |= on the first write
-```c
-CONFIG_REGISTER = (1<<BIT_A)|(1<<BIT_B);
-```
-
-Search for "bitwise operations" and "bit manipulation on the internet if you're having trouble.
+  ```c
+  CONFIG_REGISTER = 0x00;
+  CONFIG_REGISTER |= (1<<BIT_A)|(1<<BIT_B);
+  ```
+  Or set them using = not |= on the first write
+  ```c
+  CONFIG_REGISTER = (1<<BIT_A)|(1<<BIT_B);
+  ```
+- Search for "bitwise operations" and "bit manipulation on the internet if you're having trouble.
