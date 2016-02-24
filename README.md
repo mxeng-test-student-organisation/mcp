@@ -16,6 +16,6 @@ Remember to attribute any code excerpts you use in your own projects (MIT licens
 
 AVRDude is [GPLv2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) free software. Source can be found at http://www.nongnu.org/avrdude/.
 
-Cygwin [GPLv3+](http://www.gnu.org/licenses/gpl-3.0.en.html) free software. Soure can be found at https://cygwin.com/index.html.
+Cygwin is [GPLv3+](http://www.gnu.org/licenses/gpl-3.0.en.html) free software. Soure can be found at https://cygwin.com/index.html.
 
 More Information on the HD44780 LCD library can be found at http://www.avrfreaks.net/projects/hd44780-library.
