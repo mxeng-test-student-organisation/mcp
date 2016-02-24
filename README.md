@@ -7,6 +7,6 @@ If you have changes that will benefit everyone you can submit a pull request to 
 
 
 # Cheat Sheets:
-[Bit Manipulation]() (writing to ports; setting, clearing and toggling bits; bit shift notation; config registers)
+[Bit Manipulation](bit_manipulation.md) (writing to ports; setting, clearing and toggling bits; bit shift notation; config registers)
 
 Remember to attribute any code excerpts you use in your own projects (MIT license terms).
