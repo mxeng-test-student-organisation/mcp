@@ -26,3 +26,14 @@
 *.exe
 *.out
 *.app
+
+# AVR output files
+*.map
+*.hex
+*.elf
+*.d
+*.mk
+
+# Atmel Studio Directories
+Release/
+Debug/
