@@ -7,27 +7,27 @@ REGISTER = 0x00; //all low
 REGISTER = 0xCA; //HHLL HLHL, 8+4=12=0xC, 8+2=10=A
 ```
 
-//setting one bit high
+Setting one bit high
+```c
 REGISTER = 0x01; //R0 high, all other bits low, 0000 0001, LLLL LLLH
 REGISTER = 0x04; //R2 high, all other bits low  0000 0100, LLLL LHLL
+```
 
+# Bit shift notation
+Bit shifting is easier and more clear.
 
-
-//*******************
-//BIT SHIFT NOTATION*
-//*******************
-
-//bit shifting is easier and more clear
-
-//let's do the same thing as above
+Let's do the same thing as above.
+```c
 REGISTER = (1<<0); //R0 high, all other bits low, 0000 0001, LLLL LLLH
 REGISTER = (1<<2); //R2 high, all other bits low  0000 0100, LLLL LHLL
+```
 
-//bit shifting is even more useful when we want to set multiple bits
-//we do this with the bitwise OR opeator which is "|" (pipe) 
+Bit shifting is even more useful when we want to set multiple bits. We do this with the bitwise OR opeator which is "|" (the pipe key on the keyboard)
+
+```c
 REGISTER = (1<<0)|(1<<2); //R0 and R2 high, all other bits low, 0000 0101
 REGISTER = (1<<0)|(1<<2)|(1<<5)|(1<<7); //adding more bits is easy!
-
+```
 
 
 //*************
