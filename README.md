@@ -1,8 +1,9 @@
-# Microcontroller Project Repository
+###  Microcontroller Project Repository
 
-###Hit [Download Zip](https://github.com/rmhowie/mcp/archive/master.zip) in the top right to get the latest code.
+### [Download Zip](https://github.com/rmhowie/mcp/archive/master.zip) (button also in top right)
 
 ###Cheatsheets and tutorials available in the documentation repository: 
+[Bit Manipulation](https://github.com/rmhowie/mcp_docs/blob/master/bit_manipulation.md) - writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
 
 This repository contains the code for the second year mechatronics unit microcontroller project.
 
