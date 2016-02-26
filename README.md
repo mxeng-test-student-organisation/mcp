@@ -4,7 +4,7 @@
 Coding Tutorials and cheatsheets:
 - [Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
 
-[Code Examples](https://github.com/mxeng/mcp-docs/code-examples)
+[Code Examples](https://github.com/mxeng/mcp-docs/tree/master/code-examples)
 
 [Documentation repository](https://github.com/mxeng/mcp-docs)
 
