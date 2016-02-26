@@ -1,6 +1,7 @@
 #### [Download Code](https://github.com/mxeng/mcp/archive/master.zip)
 
 #### Coding Tutorials and cheatsheets:
+
 [Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
 
 #### Microcontroller Project Repository
@@ -10,7 +11,8 @@ This repository contains the code for the second year mechatronics unit microcon
 You can fork this repository (top right button) to start working on your own copy of this code.
 If you have changes that will benefit everyone you can submit a pull request to get them back here.
 
-**Notes:**  
+**Notes:**
+
 [Documentation repository](https://github.com/mxeng/mcp-docs)
 
 [Code Examples](https://github.com/mxeng/mcp-docs/tree/master/code-examples)
