@@ -1,7 +1,12 @@
 #### [Download Code](https://github.com/mxeng/mcp/archive/master.zip)
 
-#### Tutorials and Cheatsheets
-[Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
+#### Documentation
+Coding Tutorials and cheatsheets:
+- [Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
+
+[Code Examples](https://github.com/mxeng/mcp-docs/code-examples)
+
+[Documentation repository](https://github.com/mxeng/mcp-docs)
 
 #### Microcontroller Project Repository
 
