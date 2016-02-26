@@ -1,4 +1,4 @@
-#### Hit "[Download Zip](https://github.com/mxeng/mcp/archive/master.zip)" above to get the latest code!
+#### Hit [Download Zip](https://github.com/mxeng/mcp/archive/master.zip) above to get the latest code!
 
 #### Coding Tutorials and cheatsheets:
 [Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
