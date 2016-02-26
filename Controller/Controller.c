@@ -50,11 +50,11 @@ int main(void)
 		{
 			last_send_ms = current_ms;
 			serial2_write_byte(255); //send start byte
-			serial2_write_byte((uint32_t)adc_read(0)*253/1023); //send first parameter
-			serial2_write_byte((uint32_t)adc_read(1)*253/1023); //send second parameter
-			serial2_write_byte((uint32_t)adc_read(14)*253/1023); //send third parameter
-			serial2_write_byte((uint32_t)adc_read(15)*253/1023); //send fourth parameter
-			serial2_write_byte(0); //send fifth parameter
+			serial2_write_byte(1); //send first parameter
+			serial2_write_byte(2); //send second parameter
+			serial2_write_byte(3); //send third parameter
+			serial2_write_byte(4); //send fourth parameter
+			serial2_write_byte(5); //send fifth parameter
 			serial2_write_byte(254); //send stop byte
 		}
 		
