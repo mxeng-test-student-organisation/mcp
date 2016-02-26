@@ -7,6 +7,9 @@
 
 [Arduino Mega Pin Mapping](https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png)
 
+#### Labs
+[Lab A](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-a.md)
+
 #### Microcontroller Project Repository
 
 This repository contains the code for the second year mechatronics unit microcontroller project. Hit the link above or "Download Zip" button in the upper right to get the code.
