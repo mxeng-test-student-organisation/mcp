@@ -1,12 +1,7 @@
 #### [Download Code](https://github.com/mxeng/mcp/archive/master.zip)
 
-#### Documentation
-Coding Tutorials and cheatsheets:
-- [Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
-
-[Code Examples](https://github.com/mxeng/mcp-docs/tree/master/code-examples)
-
-[Documentation repository](https://github.com/mxeng/mcp-docs)
+### Coding Tutorials and cheatsheets:
+[Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
 
 #### Microcontroller Project Repository
 
@@ -16,6 +11,9 @@ You can fork this repository (top right button) to start working on your own cop
 If you have changes that will benefit everyone you can submit a pull request to get them back here.
 
 #### Notes
+[Documentation repository](https://github.com/mxeng/mcp-docs)
+
+[Code Examples](https://github.com/mxeng/mcp-docs/tree/master/code-examples)
 
 Remember to attribute any code excerpts you use in your own projects (MIT license terms).
 
