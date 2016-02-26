@@ -2,6 +2,7 @@
 
 #### Coding Tutorials and cheatsheets:
 [Bit Manipulation](https://github.com/mxeng/mcp-docs/blob/master/bit_manipulation.md) writing to ports; setting, clearing and toggling bits; bit shift notation; config registers
+
 [Arduino Mega Pin Mapping](https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png)
 
 #### Microcontroller Project Repository
