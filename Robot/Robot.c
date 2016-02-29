@@ -38,6 +38,7 @@ int main(void)
         serial0_print_string(SERIAL_PRINT_MESSAGE); //print a string to the serial terminal
         _delay_ms(500); //1000 millisecond delay
         
+		
         leds = leds + 1; //add one to leds and store the result back in leds, how else could you write this?
         PORTA = leds; //write leds to port A
     }
