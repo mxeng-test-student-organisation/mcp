@@ -8,7 +8,7 @@
 [Arduino Mega Pin Mapping](https://www.arduino.cc/en/uploads/Hacking/PinMap2560big.png)
 
 ## Labs:
-[Lab A](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-a.md)
+[Lab A](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-a.md)  
 [Lab B](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-b.md)
 
 ## Microcontroller Project Repository
