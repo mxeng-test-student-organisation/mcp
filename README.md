@@ -9,7 +9,7 @@
 
 ## Labs:
 [Lab A](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-a.md)  
-[Lab B](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-b.md)
+[Lab B](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-b.md)  
 [Lab C](https://github.com/mxeng/mcp-docs/blob/master/labs/lab-c.md)
 
 ## Microcontroller Project Repository
