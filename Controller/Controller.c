@@ -12,7 +12,7 @@
 
 //file scope variables
 static char serial_string[200] = {0}; //declare and initialise string for serial printing
-static char lcd_string[33] = {0}; //declare and initialise string for LCD
+//static char lcd_string[33] = {0}; //declare and initialise string for LCD
 
 int main(void)
 {
